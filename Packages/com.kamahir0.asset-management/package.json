@@ -14,9 +14,7 @@
   "documentationUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.asset-management/README.md",
   "changelogUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.asset-management/CHANGELOG.md",
   "licensesUrl": "https://github.com/kamahir0/Lilja/blob/main/LICENSE",
-  "dependencies": {
-    "com.unity.addressables": "2.9.0"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/kamahir0/AssetManagement.git",
