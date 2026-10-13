@@ -1,0 +1,22 @@
+{
+  "name": "Lilja.AssetManagement.Setup.Editor",
+  "rootNamespace": "Lilja.AssetManagement.Setup.Editor",
+  "references": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [
+    {
+      "name": "com.cysharp.unitask",
+      "expression": "",
+      "define": "LILJA_DEPENDENCY_UNITASK_PRESENT"
+    }
+  ],
+  "noEngineReferences": false
+}

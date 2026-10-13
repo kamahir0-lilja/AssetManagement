@@ -1,21 +1,25 @@
 {
-  "name": "com.kamahir0.lilja.asset-management",
-  "displayName": "Lilja.AssetManagement",
+  "name": "com.kamahir0.asset-management",
+  "displayName": "Lilja Asset Management",
   "version": "0.1.0",
-  "unity": "6000.3",
-  "description": "Lilja package created by DevKit.",
+  "unity": "6000.0",
+  "description": "Lightweight asset management and lifetime abstraction for Unity with Addressables support.",
   "keywords": [
     "lilja"
   ],
   "author": {
     "name": "kamahir0",
-    "url": "https://github.com/kamahir0",
-    "email": "hrtk1330@gmail.com"
+    "url": "https://github.com/kamahir0"
   },
   "documentationUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.asset-management/README.md",
   "changelogUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.asset-management/CHANGELOG.md",
   "licensesUrl": "https://github.com/kamahir0/Lilja/blob/main/LICENSE",
   "dependencies": {
     "com.unity.addressables": "2.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamahir0/AssetManagement.git",
+    "directory": "Packages/com.kamahir0.asset-management"
   }
 }
