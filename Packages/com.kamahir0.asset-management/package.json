@@ -11,9 +11,8 @@
     "name": "kamahir0",
     "url": "https://github.com/kamahir0"
   },
-  "documentationUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.asset-management/README.md",
-  "changelogUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.asset-management/CHANGELOG.md",
-  "licensesUrl": "https://github.com/kamahir0/Lilja/blob/main/LICENSE",
+  "documentationUrl": "https://github.com/kamahir0-lilja/AssetManagement/blob/main/README.md",
+  "licensesUrl": "https://github.com/kamahir0-lilja/AssetManagement/blob/main/Packages/com.kamahir0.asset-management/LICENSE",
   "dependencies": {},
   "repository": {
     "type": "git",
